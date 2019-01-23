@@ -1,3 +1,5 @@
 <?php
 
-echo "ejemplo";
+
+$a = "ejemplo"
+echo $a;
